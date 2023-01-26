@@ -360,4 +360,23 @@ a {
   color: inherit;
 }
 
-/* ESTILOS DEL FOOTER */
+:root {
+  /* Variables CSS */
+}
+
+/* Variables SASS */
+body {
+  background-color: rgb(33, 71, 160);
+}
+
+/* ESTILOS DEL MAIN */
+main {
+  color: white;
+}
+
+.password-generator-container {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.5rem;
+}
